@@ -1,0 +1,3 @@
+# locadora
+Repositório da locadora, desenvolvido na disciplina de Programação III, no curso Técnico em Informática.
+...
